@@ -1,0 +1,15 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "feedreader test project4",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanagavarshini",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "webpack-jasmine-html-runner-plugin": "^0.8.0"
+  }
+}
