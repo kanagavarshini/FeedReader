@@ -37,7 +37,7 @@ Clone the repo - (https://github.com/kanagavarshini/FeedReader) to a local direc
 
 ### Resources
 --------------------------------------------------------------
-1. Udacity Classic Arcade Game Project (project #4) - https://www.diigo.com/outliner/fjsk23/Udacity-Feed-Reader-Testing-Project-(project-%234)?key=i5xqspbzvg
+1. Udacity Rss Feed Reader Test Project (project #4) - https://www.diigo.com/outliner/fjsk23/Udacity-Feed-Reader-Testing-Project-(project-%234)?key=i5xqspbzvg
 2. Matthew Cranford - https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/
 3. Code Concepts: JavaScript, Objects & Object Types, OOP, Prototypes (Udacity - GwG 2018 FEND) Ryan Waite - https://www.youtube.com/watch?v=0ovAyu3ZvFQ&=&feature=youtu.be
 4. Udacity FEND Webinar - Project #4 Walkthrough - https://www.youtube.com/watch?v=7kOBXPbDmyw&feature=youtu.be
